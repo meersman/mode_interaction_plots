@@ -1,4 +1,4 @@
-# Contour Integration Paths
+# Mode Interaction Plots
 tikz figures of mode interaction plots
 
 # Compilation
